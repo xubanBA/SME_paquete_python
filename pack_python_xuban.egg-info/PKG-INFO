@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pack-python-xuban
+Version: 0.0.1
+Summary: Pauqte de la entrega en python de la asignatura Software matemático y estadístico
+Author: Xuban Barberena Apezetxea
+Author-email: xbarberena001@ehu.eus
+License: LICENSE.txt
+License-File: LICENSE.txt
+Requires-Dist: seaborn>=0.9.0
+Requires-Dist: pandas>=0.25.1
+Requires-Dist: matplotlib>=3.1.1
+
+Autor: Xuban Barberena Apezetxea
+
+Entrega del paquete en python.
